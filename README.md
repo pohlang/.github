@@ -1,5 +1,7 @@
 # 🌿 PohLang — The Language of Purpose and Clarity
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
+
 **PohLang** is an open-source programming language and ecosystem built with one belief:
 
 > **Technology should be clear, purposeful, and ethical.**
@@ -30,11 +32,11 @@ a volunteer-driven ecosystem united by a shared purpose:
 to design, document, and grow PohLang for the benefit of all.
 
 Our community includes:
-- 💻 **Developers** – improving the compiler, libraries, and tools.  
-- 🧩 **Designers** – shaping user experiences and educational materials.  
-- 🌐 **Translators** – making PohLang accessible to everyone.  
-- 📚 **Writers** – crafting tutorials, guides, and documentation.  
-- 📢 **Ambassadors** – sharing PohLang across platforms and communities.  
+- 💻 **Developers** – improving the compiler, libraries, and tools  
+- 🧩 **Designers** – shaping user experiences and educational materials  
+- 🌐 **Translators** – making PohLang accessible to everyone  
+- 📚 **Writers** – crafting tutorials, guides, and documentation  
+- 📢 **Ambassadors** – sharing PohLang across platforms and communities  
 
 > Everyone has a place here — if you value clarity, creativity, and community, you belong.
 
@@ -83,6 +85,7 @@ creating ethical, transparent, and beneficial technology for the modern world.
 ---
 
 ### 🧡 Join Us
+
 Be part of something meaningful —  
 help us shape the next generation of ethical, community-driven technology.
 
@@ -90,4 +93,8 @@ help us shape the next generation of ethical, community-driven technology.
 
 ---
 
-© 2025 PohLang Community. Licensed under the MIT License.
+## 🪪 License
+
+This project and all repositories under the **PohLang** organization are licensed under the [MIT License](./LICENSE).
+
+© 2025 PohLang Community — Licensed under the MIT License.
